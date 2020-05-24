@@ -10,7 +10,7 @@ app.secret_key = 'your secret key'
 
 # Enter your database connection details below
 app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
+app.config['MYSQL_USER'] = 'pythonlogin'
 app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'pythonlogin'
 
